@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+    background-color: darkorange;
+    color: springgreen;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.btn-container{
+    display: flex;
+    justify-content: center;
+}
+.btn{
+    width: 170px;
+    height: 120px;
+    border: 8px solid black;
+    border-radius: 20%;
+    margin: 1rem;
+}
+.red{
+    background-color: red;
+}
+.green{
+    background-color: green;
+}
+.yellow{
+    background-color: yellow;
+}
+.purple{
+    background-color: purple;
+}
+.flash{
+    background-color: white;
+}
+.userflash{
+    background-color:black;
+}
